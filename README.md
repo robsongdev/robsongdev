@@ -1,4 +1,11 @@
-### Hi there 👋
+### Ola 👋
+Eu sou estudante do ultimo periodo de Tec.
+em Desenvolvimento de Sistemas, ja
+familiarizado com Frontend (Web e Mobile),
+mas com conhecimentos básicos de
+Backend. Procuro iniciar minha carreira de
+programador e mais importante aprender e
+crescer profissionalmente.
 
 <!--
 **robsongdev/robsongdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
