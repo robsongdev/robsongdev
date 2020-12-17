@@ -1,4 +1,9 @@
-### Ola 👋
+## Bem vindo!
+
+### Eu sou o Robson 👋! 
+
+### um pouco sobre mim :D
+
 FullStack familiarizado com Frontend (React e Flutter) 📱
 
 com conhecimentos de
