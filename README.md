@@ -1,12 +1,10 @@
 ### Ola 👋
-Eu sou estudante do ultimo periodo de Tec.
-em Desenvolvimento de Sistemas, ja
-familiarizado com Frontend (Web e Mobile),
-mas com conhecimentos básicos de
-Backend. Procuro iniciar minha carreira de
-programador e mais importante aprender e
-crescer profissionalmente.
+FullStack familiarizado com Frontend (React e Flutter) 📱
 
+com conhecimentos de
+Backend (Node JS e Python) 🗃
+
+Viver é uma eterna aprendizagem, e eu escolhi "codar" como estilo de vida 💻❤
 <!--
 **robsongdev/robsongdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
