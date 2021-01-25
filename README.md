@@ -7,7 +7,7 @@
 FullStack familiarizado com Frontend (React e Flutter) 📱
 
 com conhecimentos de
-Backend (Node JS e Python) 🗃
+Backend (Node.JS e Python) 🗃
 
 Viver é uma eterna aprendizagem, e eu escolhi "codar" como estilo de vida 💻❤
 <!--
