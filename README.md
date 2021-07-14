@@ -4,10 +4,7 @@
 
 ### um pouco sobre mim :D
 
-FullStack familiarizado com Frontend (React e Flutter) 📱
-
-com conhecimentos de
-Backend (Node.JS e Python) 🗃
+FrontEnd Developer familiarizado com React 📱
 
 Viver é uma eterna aprendizagem, e eu escolhi "codar" como estilo de vida 💻❤
 <!--
