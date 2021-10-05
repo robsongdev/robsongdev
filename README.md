@@ -49,10 +49,19 @@
 
 </details>
 
-
+  <summary>:zap: Github Top languages </summary>
+  <br/>
+  
+   <img align="center" alt="robsongdev's GitHub Stats" src="https://github-readme-stats-robsongdev.vercel.app/api/top-langs/?username=robsongdev&layout=compact" />
+  
+  <br/>
+  
+  ---
+  
   <summary>:zap: GitHub Stats</summary>
+  <br/>
 
-  <img align="left" alt="robsongdev's GitHub Stats" src="https://github-readme-stats-robsongdev.vercel.app/api?username=robsongdev&show_icons=true&hide_border=true" />
+  <img align="left" alt="robsongdev's GitHub Stats" src="https://github-readme-stats-robsongdev.vercel.app/api?username=robsongdev&show_icons=true&hide_border=true&theme=radical" />
 
 
 
