@@ -53,7 +53,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="robsongdev's GitHub Stats" src="github-readme-stats-sigma-sepia.vercel.app/api?username=robsongdev&show_icons=true&hide_border=true" />
+  <img align="left" alt="robsongdev's GitHub Stats" src="https://github-readme-stats-robsongdev.vercel.app/api?username=robsongdev&show_icons=true&hide_border=true" />
 
 </details>
 
