@@ -5,8 +5,8 @@
 
 ## Entusiasta na programação, desenvolvedor frontend e nerd!!
 
-- 🌱 Estou aprendendo tudo 🤣
-- 🥅 Metas 2021: Fazer mais projetos pessoais e colaborar com mais projetos
+- 🌱 Estou aprendendo tudo (mas em love com a Alura)
+- 🥅 Metas 2022: Fazer mais projetos pessoais
 - 👨‍💻 Quero dar o pontapé inicial na minha carreira
 - ⚡ Fato divertido: Adoro jogar video-games
 
@@ -51,7 +51,7 @@
   <summary>:zap: GitHub Stats</summary>
   <br/>
 
-  <img align="left" alt="robsongdev's GitHub Stats" src="https://github-readme-stats-robsongdev.vercel.app/api?username=robsongdev&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="robsongdev's GitHub Stats" src="https://github-readme-stats-robsongdev.vercel.app/api?username=robsongdev&show_icons=true&hide_border=true&hide=stars,contribs&theme=radical" />
 
 
 
