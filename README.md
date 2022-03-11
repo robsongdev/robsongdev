@@ -5,10 +5,9 @@
 
 ## Entusiasta na programação, desenvolvedor frontend e nerd!!
 
-- 🌱 Estou aprendendo tudo (mas em love com a Alura)
+- 🌱 Estou aprendendo tudo (mas com foco em React.js)
 - 🥅 Metas 2022: Fazer mais projetos pessoais
 - 👨‍💻 Quero dar o pontapé inicial na minha carreira
-- ⚡ Fato divertido: Adoro jogar video-games
 
 ### Conecte-se comigo:
 
