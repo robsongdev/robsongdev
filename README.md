@@ -6,13 +6,11 @@
 ## Entusiasta na programação, desenvolvedor frontend e nerd!!
 
 - 🌱 Estou aprendendo tudo (mas com foco em React.js)
-- 🥅 Metas 2022: Fazer mais projetos pessoais
-- 👨‍💻 Quero dar o pontapé inicial na minha carreira
+- 🥅 Metas 2025: Fazer mais projetos pessoais
 
 ### Conecte-se comigo:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="robsongdev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][TWITTER]
 [<img align="left" alt="robsongdev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LINKEDIN]
 
 
@@ -55,6 +53,5 @@
 
 
 <!-- [website]: https://codeSTACKr.com -->
-[twitter]: https://twitter.com/robsong369
 [linkedin]: https://www.linkedin.com/in/robson-gabriel-rodrigues-215470205/
 
